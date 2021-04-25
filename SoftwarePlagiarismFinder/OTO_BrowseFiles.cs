@@ -47,12 +47,12 @@ namespace SoftwarePlagiarismFinder
 
         private void cmdDestination_Click(object sender, EventArgs e)
         {
-            
+            txtDestination.Text = GetFileName();
         }
 
         private void cmdClose_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
         }
 
         private void cmdCompare_Click(object sender, EventArgs e)
