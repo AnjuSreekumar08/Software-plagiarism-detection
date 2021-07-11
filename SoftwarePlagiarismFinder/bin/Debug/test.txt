@@ -1,0 +1,294 @@
+
+....................................................................
+
+Comparing file : BinaryResults.cs with CharData.cs
+
+....................................................................
+
+
+
+NoChange	0	0	28	
+DeleteSource	---	28	23	
+NoChange	28	51	14	
+DeleteSource	---	65	28	
+NoChange	42	93	2	
+DeleteSource	---	95	56	
+NoChange	44	151	14	
+Replace	58	165	3	
+AddDestination	61	---	1	
+NoChange	62	168	1	
+AddDestination	63	---	7	
+NoChange	70	169	6	
+DeleteSource	---	175	78	
+NoChange	76	253	13	
+Replace	89	266	1	
+NoChange	90	267	1	
+Replace	91	268	1	
+AddDestination	92	---	8	
+NoChange	100	269	2	
+Replace	102	271	2	
+DeleteSource	---	273	4	
+NoChange	104	277	1	
+Replace	105	278	1	
+NoChange	106	279	3	
+Replace	109	282	2	
+AddDestination	111	---	5	
+NoChange	116	284	2	
+DeleteSource	---	286	21	
+NoChange	118	307	16	
+Replace	134	323	3	
+DeleteSource	---	326	14	
+NoChange	137	340	1	
+Replace	138	341	3	
+AddDestination	141	---	5	
+NoChange	146	344	4	
+DeleteSource	---	348	386	
+NoChange	150	734	14	
+Replace	164	748	1	
+NoChange	165	749	1	
+Replace	166	750	2	
+DeleteSource	---	752	15	
+NoChange	168	767	4	
+Replace	172	771	1	
+AddDestination	173	---	2	
+NoChange	175	772	1	
+Replace	176	773	6	
+DeleteSource	---	779	3	
+NoChange	182	782	1	
+Replace	183	783	1	
+AddDestination	184	---	5	
+NoChange	189	784	1	
+Replace	190	785	1	
+AddDestination	191	---	6	
+NoChange	197	786	11	
+Replace	208	797	3	
+DeleteSource	---	800	7	
+NoChange	211	807	1	
+Replace	212	808	1	
+AddDestination	213	---	1	
+NoChange	214	809	1	
+Replace	215	810	1	
+DeleteSource	---	811	9	
+NoChange	216	820	1	
+AddDestination	217	---	23	
+NoChange	240	821	7	
+DeleteSource	---	828	46	
+NoChange	247	874	1	
+DeleteSource	---	875	32	
+NoChange	248	907	4	
+Replace	252	911	1	
+DeleteSource	---	912	31	
+NoChange	253	943	2	
+Replace	255	945	3	
+AddDestination	258	---	1	
+NoChange	259	948	1	
+Replace	260	949	1	
+NoChange	261	950	4	
+Replace	265	954	2	
+NoChange	267	956	1	
+DeleteSource	---	957	2	
+NoChange	268	959	1	
+DeleteSource	---	960	4	
+NoChange	269	964	1	
+Replace	270	965	1	
+AddDestination	271	---	4	
+NoChange	275	966	2	
+AddDestination	277	---	12	
+NoChange	289	968	3	
+AddDestination	292	---	1	
+NoChange	293	971	1	
+Replace	294	972	2	
+AddDestination	296	---	4	
+NoChange	300	974	5	
+DeleteSource	---	979	1	
+NoChange	305	980	6	
+Replace	311	986	1	
+DeleteSource	---	987	7	
+NoChange	312	994	1	
+Replace	313	995	1	
+AddDestination	314	---	3	
+NoChange	317	996	1	
+AddDestination	318	---	5	
+NoChange	323	997	4	
+DeleteSource	---	1001	220	
+NoChange	327	1221	7	
+DeleteSource	---	1228	12	
+NoChange	334	1240	5	
+DeleteSource	---	1245	671	
+NoChange	339	1916	3	
+DeleteSource	---	1919	87	
+NoChange	342	2006	5	
+Replace	347	2011	3	
+DeleteSource	---	2014	11	
+NoChange	350	2025	1	
+AddDestination	351	---	21	
+NoChange	372	2026	2	
+Replace	374	2028	1	
+DeleteSource	---	2029	12	
+NoChange	375	2041	1	
+DeleteSource	---	2042	7	
+NoChange	376	2049	1	
+Replace	377	2050	3	
+DeleteSource	---	2053	1	
+NoChange	380	2054	2	
+Replace	382	2056	2	
+AddDestination	384	---	1	
+NoChange	385	2058	11	
+Replace	396	2069	1	
+DeleteSource	---	2070	35	
+NoChange	397	2105	1	
+DeleteSource	---	2106	1	
+NoChange	398	2107	1	
+DeleteSource	---	2108	6	
+NoChange	399	2114	1	
+Replace	400	2115	1	
+DeleteSource	---	2116	21	
+NoChange	401	2137	1	
+Replace	402	2138	4	
+DeleteSource	---	2142	30	
+NoChange	406	2172	1	
+Replace	407	2173	2	
+DeleteSource	---	2175	2	
+NoChange	409	2177	2	
+Replace	411	2179	2	
+DeleteSource	---	2181	5	
+NoChange	413	2186	1	
+DeleteSource	---	2187	5	
+NoChange	414	2192	1	
+Replace	415	2193	3	
+AddDestination	418	---	1	
+NoChange	419	2196	13	
+DeleteSource	---	2209	2321	
+NoChange	432	4530	11	
+DeleteSource	---	4541	204	
+NoChange	443	4745	4	
+Replace	447	4749	1	
+DeleteSource	---	4750	125	
+
+
+Differences between  : BinaryResults.cs and CharData.cs = 94 numbers
+
+94 numbers means 94 occurences of errors like source addition,deletion,updation etc
+
+Similarity between  : BinaryResults.cs and CharData.cs = 63 numbers
+
+....................................................................
+
+....................................................................
+....................................................................
+
+Avg cpu usage=31 %
+Avg memory usage=59 %
+Avg memory usage=39 %
+IP Packet count=39
+TCP Packet count=35
+UDP Packet count=4
+DNS Packet count=0
+File Created=22
+File Changed=134
+File Deleted=113
+File Renamed=6
+Birthmark
+....................................................................
+NTM=
+....................................................................
+....................................................................
+
+Avg cpu usage=6 %
+Avg memory usage=60 %
+Avg memory usage=39 %
+IP Packet count=3
+TCP Packet count=2
+UDP Packet count=0
+DNS Packet count=0
+File Created=23
+File Changed=168
+File Deleted=133
+File Renamed=10
+Birthmark
+....................................................................
+MTQ=
+....................................................................
+....................................................................
+
+Process count=216
+Thread Count=6480
+....................................................................
+....................................................................
+
+Avg cpu usage=48 %
+Avg memory usage=83 %
+Avg memory usage=39 %
+IP Packet count=32
+TCP Packet count=26
+UDP Packet count=6
+DNS Packet count=0
+File Created=1
+File Changed=7
+File Deleted=1
+File Renamed=0
+Birthmark
+....................................................................
+NTM=
+....................................................................
+....................................................................
+
+Avg cpu usage=46 %
+Avg memory usage=82 %
+Avg memory usage=39 %
+IP Packet count=29
+TCP Packet count=12
+UDP Packet count=17
+DNS Packet count=0
+File Created=1
+File Changed=13
+File Deleted=1
+File Renamed=0
+Birthmark
+....................................................................
+MTQ=
+....................................................................
+....................................................................
+
+Process count=190
+Thread Count=5702
+....................................................................
+....................................................................
+
+Avg cpu usage=78 %
+Avg memory usage=89 %
+Avg memory usage=39 %
+IP Packet count=1901
+TCP Packet count=2
+UDP Packet count=1897
+DNS Packet count=0
+File Created=0
+File Changed=11
+File Deleted=3
+File Renamed=2
+Birthmark
+....................................................................
+NTM=
+....................................................................
+....................................................................
+
+Avg cpu usage=89 %
+Avg memory usage=89 %
+Avg memory usage=39 %
+IP Packet count=2180
+TCP Packet count=72
+UDP Packet count=2107
+DNS Packet count=10
+File Created=2
+File Changed=38
+File Deleted=57
+File Renamed=56
+Birthmark
+....................................................................
+MTQ=
+....................................................................
+....................................................................
+
+Process count=200
+Thread Count=6000
+....................................................................
